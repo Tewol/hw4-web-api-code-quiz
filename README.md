@@ -22,7 +22,7 @@
 
 The following image shows a Coding Quiz Challenge appearance and functionality: 
 
-![COding Quiz Challenge "screenshot #1".](./Assets/04-web-apis-homework-demo.gif)
+![COding Quiz Challenge "screenshot #1".](./assets/04-web-apis-homework-demo.gif)
 
 
 ## Links to the deployed application
