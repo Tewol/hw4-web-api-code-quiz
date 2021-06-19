@@ -98,7 +98,7 @@
 
     //Display the question itself
     question.innerHTML = current.question;
-    answers.innerHTML = current.answers;
+    //answers.innerHTML = current.answers;
 
     console.log (quizChallegne[0]);
 
